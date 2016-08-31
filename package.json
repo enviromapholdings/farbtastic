@@ -7,7 +7,7 @@
   ],
   "license": "GPL-2.0",
   "dependencies" : {
-    "jquery"   :  "*"
+    "jquery"   :  "^2.2.4"
   },
   "repository": {
     "type": "git",
